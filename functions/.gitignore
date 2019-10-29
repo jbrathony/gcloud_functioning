@@ -1,0 +1,12 @@
+## Compiled JavaScript files
+**/*.js
+**/*.js.map
+
+# Typescript v1 declaration files
+typings/
+
+node_modules/
+docent-backend-systems-2-firebase-adminsdk-ld74i-9b00e725e8.json
+src/test.js
+src/upload.js
+src/download.js
